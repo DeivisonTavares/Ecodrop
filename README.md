@@ -1,4 +1,4 @@
-# Projeto Amazon Hacking - Resolvendo Problemas da Ilha do Combu
+# Ecodrop - Amazon Hacking 2024
 
 ## Integrantes do Time
 
